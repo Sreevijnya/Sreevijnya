@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sreevijnya-m-03767b26a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msreevijnya30@gmail.com)
 
 # 💫 About Me:
 👋 Hello! I'm Sreevijnya M, a passionate undergraduate student pursuing a Bachelor of Technology in Computer Science. Currently honing my skills in Python, R, Java, and more, I'm eager to contribute to innovative projects that solve real-world challenges. Let's connect and collaborate to drive meaningful advancements in technology together!
